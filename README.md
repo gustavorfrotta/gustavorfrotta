@@ -28,8 +28,8 @@ const Gustavo Rocha Frotta = {
 
 <div>
   <a href="https://github.com/gustavorfrotta">
-  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=gustavorfrotta&show_icons=true&theme=github_dark"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorfrotta&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorfrotta&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorfrotta&layout=compact&theme=github_dark"/>
 </div>
   
   ##
