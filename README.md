@@ -1,12 +1,11 @@
 ### Hi there 👋
-
+##
 <div>
   <a href="https://github.com/gustavorfrotta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavorfrotta&show_icons=true&theme=github_dark"/>
   <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorfrotta&layout=compact&theme=github_dark"/>
 </div>
-  
-##
+
   
 <div>  
   <img align="center" alt"Frota-PYTHON" geight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
