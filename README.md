@@ -1,13 +1,6 @@
 ### Hi there 👋 I'm Gustavo Rocha Frotta 😎
 ##
-<div>
-  <a href="https://github.com/gustavorfrotta">
-  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=gustavorfrotta&show_icons=true&theme=github_dark"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorfrotta&layout=compact&theme=github_dark"/>
-</div>
-  
-  ##
-  
+
   ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -32,7 +25,14 @@ const anmol = {
 };
 ```
 
+##
 
+<div>
+  <a href="https://github.com/gustavorfrotta">
+  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=gustavorfrotta&show_icons=true&theme=github_dark"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorfrotta&layout=compact&theme=github_dark"/>
+</div>
+  
   ##
   
 <div>  
