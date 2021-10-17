@@ -6,6 +6,7 @@
   <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorfrotta&layout=compact&theme=github_dark"/>
 </div>
 
+  ##
   
 <div>  
   <img align="center" alt"Frota-PYTHON" geight="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
